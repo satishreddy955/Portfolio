@@ -24,8 +24,8 @@ const Projects = () => {
       title: 'Portfolio Website',
       description: 'A responsive portfolio website built with modern web technologies, featuring smooth animations and optimized performance.',
       technologies: ['React', 'CSS3', 'Responsive Design'],
-      github: 'https://github.com',
-      demo: 'https://example.com'
+      github: 'https://github.com/satishreddy955/Portfolio/',
+      demo: 'https://portfolio-tan-theta-78.vercel.app/'
     }
   ];
 
