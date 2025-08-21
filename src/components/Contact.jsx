@@ -95,9 +95,9 @@ const Contact = () => {
                 <a href="https://www.linkedin.com/in/mekala-satish-kumar-reddy-ba08a7290/" target="_blank" rel="noopener noreferrer">
                   <span className="icon">💼</span> LinkedIn
                 </a>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+{/*                 <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                   <span className="icon">🐦</span> Twitter
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
