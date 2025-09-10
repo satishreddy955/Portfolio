@@ -8,8 +8,8 @@ const Projects = () => {
       title: 'Food Delivery Web Application',
       description: 'A full-stack e-commerce solution with user authentication, order cart, payment integration, and admin dashboard.',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      github: 'https://github.com/satishreddy955/Food-Del',
-      demo: 'https://food-del-front-three.vercel.app/'
+      github: 'https://github.com/satishreddy955/Tomato',
+      demo: 'https://tomato-59xk.vercel.app'
     },
     {
       id: 2,
